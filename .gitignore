@@ -1,0 +1,33 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+3d_venv/
+
+# IDE
+.vscode/
+
+# Data and generated outputs
+Data/
+output/
+outputs/
+*.glb
+*.ply
+*.obj
+
+# Model weights
+*.pth
+*.pt
+*.onnx
+
+# Secrets
+.env
+.env.*
+
+# Logs
+*.log
